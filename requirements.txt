@@ -1,0 +1,7 @@
+litellm
+python-dotenv
+edge-tts
+pygame-ce
+faster-whisper
+sounddevice
+numpy
